@@ -5,9 +5,25 @@
       <map>
         <entry key="..\:/Files/University/Android Development/Mobile-Development-Assignment/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2685" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3635" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/drawable/ic_baseline_sports_basketball_24.xml" value="0.3635" />
         <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2685" />
         <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_favourite.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_r1.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_r10.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_r3.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_r4.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_r5.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_r6.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_r7.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_r8.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_r9.xml" value="0.3625" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/fragment_ranking.xml" value="0.3625" />
         <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/login_fragment.xml" value="0.358695652173913" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/layout/r2.xml" value="0.358695652173913" />
+        <entry key="..\:/Files/University/Applied Informatics/6th Semester/Android Dev/Android/Mobile-Development-Assignment/app/src/main/res/menu/menu.xml" value="0.3625" />
       </map>
     </option>
   </component>
