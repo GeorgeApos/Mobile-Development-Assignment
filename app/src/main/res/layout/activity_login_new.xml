@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".login_activity"
+    tools:context=".login_activity_new"
     android:orientation="vertical"
     android:weightSum="4"
     android:background="@color/colorPrimary">
@@ -24,16 +24,16 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="36dp"
-                android:text="My Stats App"
+                android:text="Welcome to uomScore"
                 android:fontFamily="@font/segoe_ui_bold"
-                android:textColor="@color/colorWhite" />
+                android:textColor="@color/white" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="18dp"
                 android:text="We missed you"
                 android:fontFamily="@font/segoe_ui_semibold"
-                android:textColor="@color/colorWhite" />
+                android:textColor="@color/white" />
         </LinearLayout>
 
     </RelativeLayout>
@@ -58,7 +58,7 @@
             android:layout_centerVertical="true">
             <EditText
                 android:id="@+id/login_email"
-                android:drawableEnd="@drawable/ic_account"
+                android:drawableRight="@drawable/ic_account"
                 android:drawableTint="@color/colorTextBlack"
                 android:textColor="@color/colorTextBlack"
                 android:hint="someone@gmail.com"
@@ -74,7 +74,7 @@
             <EditText
                 android:id="@+id/login_password"
                 android:layout_marginTop="24dp"
-                android:drawableEnd="@drawable/ic_lock"
+                android:drawableRight="@drawable/ic_lock"
                 android:drawableTint="@color/colorTextBlack"
                 android:textColor="@color/colorTextBlack"
                 android:hint="password"
@@ -121,7 +121,7 @@
                     android:background="@drawable/button_background"
                     android:text="Sign in"
                     android:textAllCaps="false"
-                    android:textColor="@color/colorTextWhite"
+                    android:textColor="@color/white"
                     android:textSize="16dp"
                     android:fontFamily="@font/segoe_ui_semibold"/>
             </LinearLayout>

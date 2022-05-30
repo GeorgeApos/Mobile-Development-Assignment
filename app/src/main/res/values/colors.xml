@@ -12,5 +12,5 @@
     <color name="colorPrimaryDark">#0E68FF</color>
     <color name="colorButton">#0E68FF</color>
     <color name="colorTextPrimary">#0E68FF</color>
-
+    <color name="colorTextBlack">#000000</color>
 </resources>
