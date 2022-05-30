@@ -27,7 +27,7 @@ public class login_activity_new extends AppCompatActivity {
                 String passwordString = emailText.getText().toString();
 
                 if(emailString.equals("admin") && passwordString.equals("admin")){
-                    Intent intent = new Intent(v.getContext(), MainActivity.class);
+                    Intent intent = new Intent(v.getContext(), r1Activity.class);
                     startActivity(intent);
                 }
 
