@@ -28,13 +28,25 @@
         <entry key="app/src/main/res/drawable-v24/card_background.xml" value="0.313" />
         <entry key="app/src/main/res/drawable-v24/edit_background.xml" value="0.313" />
         <entry key="app/src/main/res/drawable-v24/ic_account.xml" value="0.313" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3175" />
         <entry key="app/src/main/res/drawable-v24/ic_lock.xml" value="0.313" />
+        <entry key="app/src/main/res/drawable/circular_image_layer.xml" value="0.284" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3175" />
+        <entry key="app/src/main/res/drawable/ic_ramen_background.xml" value="0.3175" />
+        <entry key="app/src/main/res/drawable/img.xml" value="0.3175" />
+        <entry key="app/src/main/res/drawable/r10_card_background.xml" value="0.284" />
+        <entry key="app/src/main/res/drawable/r10_list_circle.xml" value="0.3175" />
+        <entry key="app/src/main/res/drawable/r10_list_item.xml" value="0.3175" />
         <entry key="app/src/main/res/layout/activity_login_new.xml" value="0.302536231884058" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
         <entry key="app/src/main/res/layout/fragment_favourite.xml" value="0.302536231884058" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.302536231884058" />
-        <entry key="app/src/main/res/layout/fragment_r10.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/fragment_r1.xml" value="0.30978260869565216" />
+        <entry key="app/src/main/res/layout/fragment_r10.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_ranking.xml" value="0.30978260869565216" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_ramen.xml" value="0.1895" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_ramen_round.xml" value="0.1895" />
       </map>
     </option>
   </component>
