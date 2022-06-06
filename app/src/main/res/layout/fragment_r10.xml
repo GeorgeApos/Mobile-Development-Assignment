@@ -8,7 +8,31 @@
     android:orientation="vertical">
 
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:padding="16dp"
+        android:orientation="vertical">
+
+
+        <ImageButton
+            android:id="@+id/show_dropdown_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:clickable="true"
+            android:text="Search"
+            android:onClick="showDropDownMenu"
+            android:src="@drawable/filter2"
+            android:background="#fff"
+            tools:ignore="onClick" />
+    </LinearLayout>
+
+
+
     <androidx.core.widget.NestedScrollView
+        android:paddingTop="100dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -24,7 +48,9 @@
             android:layout_width="match_parent"
             android:layout_height="150dp"
             app:cardCornerRadius="8dp"
-            android:layout_margin="30dp">
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="15dp">
 
             <RelativeLayout
                 android:layout_width="wrap_content"
@@ -98,7 +124,9 @@
             android:layout_width="match_parent"
             android:layout_height="150dp"
             app:cardCornerRadius="8dp"
-            android:layout_margin="30dp">
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="15dp">
 
             <RelativeLayout
                 android:layout_width="wrap_content"
@@ -172,7 +200,9 @@
             android:layout_width="match_parent"
             android:layout_height="150dp"
             app:cardCornerRadius="8dp"
-            android:layout_margin="30dp">
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="15dp">
 
             <RelativeLayout
                 android:layout_width="wrap_content"
@@ -247,7 +277,9 @@
             android:layout_width="match_parent"
             android:layout_height="150dp"
             app:cardCornerRadius="8dp"
-            android:layout_margin="30dp">
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="15dp">
 
             <RelativeLayout
                 android:layout_width="wrap_content"
@@ -322,7 +354,9 @@
             android:layout_width="match_parent"
             android:layout_height="150dp"
             app:cardCornerRadius="8dp"
-            android:layout_margin="30dp">
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="15dp">
 
             <RelativeLayout
                 android:layout_width="wrap_content"

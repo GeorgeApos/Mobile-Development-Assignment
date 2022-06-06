@@ -45,6 +45,7 @@
         <entry key="app/src/main/res/layout/fragment_r10.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_ranking.xml" value="0.30978260869565216" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/r10_filter_menu.xml" value="0.3145833333333333" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_ramen.xml" value="0.1895" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_ramen_round.xml" value="0.1895" />
       </map>
