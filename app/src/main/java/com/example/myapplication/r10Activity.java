@@ -26,10 +26,10 @@ public class r10Activity extends AppCompatActivity implements MenuItem.OnMenuIte
         super.onCreate(savedInstanceState);
         setContentView(R.layout.fragment_r10);
 
-        bottomNavigationView = findViewById(R.id.bottomNav);
-
-        bottomNavigationView.setOnNavigationItemSelectedListener(bottomNavMethod);
-        getSupportFragmentManager().beginTransaction().replace(R.id.container, new HomeFragment()).commit();
+//        bottomNavigationView = findViewById(R.id.bottomNav);
+//
+//        bottomNavigationView.setOnNavigationItemSelectedListener(bottomNavMethod);
+//        getSupportFragmentManager().beginTransaction().replace(R.id.container, new HomeFragment()).commit();
 
         showMenu = (ImageButton) findViewById(R.id.show_dropdown_menu);
         showMenu.setOnClickListener(new View.OnClickListener() {
@@ -61,21 +61,26 @@ public class r10Activity extends AppCompatActivity implements MenuItem.OnMenuIte
                 public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
                     Fragment fragment=null;
+                    setContentView(R.layout.activity_login_new);
 
-                    switch (item.getItemId()){
-                        case R.id.home:
-                            fragment = new HomeFragment();
-                            break;
-                        case R.id.ranking:
-                            fragment = new RankingFragment();
-                            break;
-                        case R.id.favourites:
-                            fragment = new FavouriteFragment();
-                            break;
-                    }
-                    getSupportFragmentManager().beginTransaction().replace(R.id.container,fragment).commit();
+//                    switch (item.getItemId()){
+//                        case R.id.home:
+//                            setContentView(R.layout.activity_login_new);
+//                            break;
+//                        case R.id.ranking:
+//                            setContentView(R.layout.activity_login_new);
+//                            break;
+//                        case R.id.favourites:
+//                            setContentView(R.layout.activity_login_new);
+//                            break;
+//                    }
+                    //getSupportFragmentManager().beginTransaction().replace(R.id.container,fragment).commit();
 
                     return true;
                 }
             };
+
+    public void showDropDownMenu(View view) {
+
+    }
 }

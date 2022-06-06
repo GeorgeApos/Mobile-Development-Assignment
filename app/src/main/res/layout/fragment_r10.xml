@@ -22,11 +22,9 @@
             android:layout_height="wrap_content"
             android:padding="16dp"
             android:clickable="true"
-            android:text="Search"
             android:onClick="showDropDownMenu"
             android:src="@drawable/filter2"
-            android:background="#fff"
-            tools:ignore="onClick" />
+            android:background="#fff"/>
     </LinearLayout>
 
 
@@ -34,11 +32,12 @@
     <androidx.core.widget.NestedScrollView
         android:paddingTop="100dp"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:fillViewport="true">
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="vertical">
 
 

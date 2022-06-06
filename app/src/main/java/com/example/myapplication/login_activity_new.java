@@ -10,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class login_activity_new extends AppCompatActivity {
 
-    private Button signInButton;
+    Button signInButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,10 +26,12 @@ public class login_activity_new extends AppCompatActivity {
                 EditText passwordText = (EditText)findViewById(R.id.login_email);
                 String passwordString = emailText.getText().toString();
 
-                if(emailString.equals("admin") && passwordString.equals("admin")){
-                    Intent intent = new Intent(v.getContext(), r1Activity.class);
-                    startActivity(intent);
-                }
+                Intent intent = new Intent(v.getContext(), fragment_main.class);
+                startActivity(intent);
+//                if(emailString.equals("admin") && passwordString.equals("admin")){
+//                    Intent intent = new Intent(v.getContext(), fragment_main.class);
+//                    startActivity(intent);
+//                }
 
             }
         });
