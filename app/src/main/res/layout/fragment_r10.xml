@@ -130,12 +130,13 @@
             <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="here is gonna appear the position of the player in the standings"
-                    android:textSize="15dp"
-                    android:textColor="@color/white"/>
+                    android:textColor="@color/white"
+                    android:textSize="15dp" />
             </RelativeLayout>
 
             <LinearLayout
